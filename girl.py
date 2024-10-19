@@ -3,11 +3,10 @@ import numpy as np
 import streamlit as st
 
 # Load YOLOv3 weights and configuration
-net = cv2.dnn.readNet("C:/Users/91720/OneDrive/Desktop/soumi_girlprj/yolov3.weights", 
-                      "C:/Users/91720/OneDrive/Desktop/soumi_girlprj/yolov3.cfg")
+net = cv2.dnn.readNet("wget https://pjreddie.com/media/files/yolov3.weights", "yolov3.cfg")
 
 # Load COCO class names
-with open("C:/Users/91720/OneDrive/Desktop/soumi_girlprj/coco.names", "r") as f:
+with open("coco.names", "r") as f:
     classes = [line.strip() for line in f.readlines()]
 
 # Get output layer names
