@@ -12,6 +12,7 @@ I'm working on a project called Enabling Technologies for Visually Impaired Peop
 The project focuses on receiving input from the camera used by the disabled person and performing object detection. The system will mark boundaries around detected objects and inform the individual that an obstacle is present, prompting them to move aside. This is the basic concept and aim of the project.
 # Tools and Technologies
 # Output
+![WhatsApp Image 2024-10-22 at 15 32 49_62bc7de6](https://github.com/user-attachments/assets/c4664107-6352-49f4-8cc1-51b85cfe5a7e)
 # Hosted website link
 # Project Completion certificate
 ![image](https://github.com/user-attachments/assets/cef76364-a738-4ca4-afd4-d8da9376bb70)
