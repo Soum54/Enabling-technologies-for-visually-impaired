@@ -14,3 +14,4 @@ The project focuses on receiving input from the camera used by the disabled pers
 # Output
 # Hosted website link
 # Project Completion certificate
+![image](https://github.com/user-attachments/assets/cef76364-a738-4ca4-afd4-d8da9376bb70)
